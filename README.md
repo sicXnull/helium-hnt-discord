@@ -1,6 +1,6 @@
 # Helium Discord Notification
 
-This script grabs HNT/IOT wallet balances and converts to USD/Other currencies
+This script grabs HNT/IOT/Mobile wallet balances and converts to USD/Other currencies
 
 ![image](https://github.com/sicXnull/helium-hnt-discord/assets/31908995/4d89f433-d3a6-400a-8fb3-bce25ba9d0ba)
 
